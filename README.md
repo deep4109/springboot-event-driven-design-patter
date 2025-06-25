@@ -10,7 +10,7 @@ Learn how to develop Event Driven Microservices using Spring Boot, Axon framewor
 * Section 5 - Choreography Saga pattern
 * Section 6 - Orchestration Saga pattern
 * Section 7 - Snapshots in Event sourcing pattern
-* Section 8 - Thank You & Congratulations
+
 
 
 ## Important Links
