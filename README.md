@@ -1,7 +1,5 @@
 # Event Driven Microservices with CQRS, Saga, Event Sourcing
 
-Learn how to develop Event Driven Microservices using Spring Boot, Axon framework, CQRS, Saga, Event Sourcing patterns
-
 ## Topics covered 
 * Section 1 - Database-per-service pattern
 * Section 2- Understanding CQRS and Event Sourcing patterns- Theory
